@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+        <LinearLayout
+            android:gravity="center_horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/tv_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/name_me"
+                android:textStyle="bold"
+                android:textSize="32sp"
+                android:gravity="center"
+                tools:layout_editor_absoluteX="176dp"
+                tools:layout_editor_absoluteY="62dp" />
+<!--            <FrameLayout-->
+<!--                android:background="?colorPrimaryContainer"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_margin="13dp"-->
+<!--                android:layout_height="wrap_content">-->
+
+<!--                <de.hdodenhof.circleimageview.CircleImageView-->
+<!--                    android:id="@+id/img_photo"-->
+<!--                    android:layout_width="160dp"-->
+<!--                    android:layout_height="160dp"-->
+<!--                    android:layout_margin="13dp"-->
+<!--                    android:src="@drawable/photo_me"/>-->
+<!--            </FrameLayout>-->
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="16dp">
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/img_photo"
+                    android:layout_width="160dp"
+                    android:layout_height="160dp"
+                    android:layout_margin="0dp"
+                    android:layout_gravity="center"
+                    android:translationZ="3dp"
+                    android:src="@drawable/photo_me"/>
+                <androidx.cardview.widget.CardView
+                    android:layout_width="180dp"
+                    android:layout_height="160dp"
+
+                    android:translationZ="0dp"
+                    app:cardCornerRadius="100dp"
+                    app:cardBackgroundColor="?colorTertiaryContainer"/>
+
+            </FrameLayout>
+            <!-- Food Stats-->
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="24dp"
+            android:paddingHorizontal="22dp">
+            <TextView
+                android:id="@+id/tv_descr"
+                style="@style/text"
+                android:justificationMode="inter_word"
+                android:gravity="center_horizontal"
+                android:textSize="20sp"
+                android:text="@string/descr_me"
+                />
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

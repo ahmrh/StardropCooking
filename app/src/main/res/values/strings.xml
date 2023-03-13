@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Stardrop Cooking</string>
+    <string name="about">About</string>
+    <string name="photo_gold">https://stardewcommunitywiki.com/mediawiki/images/1/10/Gold.png</string>
+    <string name="photo_energy">https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png</string>
+    <string name="photo_health">https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png</string>
+
+    <string name="photo_saloon">https://stardewvalleywiki.com/mediawiki/images/thumb/6/69/Saloon.png/300px-Saloon.png</string>
+    <string name="name_saloon">Stardrop Saloon</string>
+    <string name="descr_saloon"><b>The Stardrop Saloon</b> is owned by <b>Gus</b>, and is located in the center of <b>Pelican Town</b>. \n\nIt\'s a <b>meeting place</b> for many villagers, and hosts a variety of entertainment, including fully playable arcade machines, a jukebox, and a Joja Cola soda machine. \n\nI created this App to promote <b>Stardrop Saloon</b> and their cooking. Any asset here belong to <b>Stardew Valley</b> Game.</string>
+
+    <string name="name_me">Ahmad Rolandi Hernafahreza</string>
+    <string name="descr_me"><b>ahmadrolandi01@gmail.com</b>\n\nI write <b>code</b>, do <b>interesting</b> thing, and currently a <b>Bangkit Academy</b> 2023 cohort with Android Development as a Learning Path. \n\nAlso, any kind of feedback about this app is really appreciated.</string>
+
+
+    <string-array name="data_shortDesc">
+        <item>Drink in moderation.</item>
+        <item>A healthy garden salad.</item>
+        <item>A crusty baguette.</item>
+        <item>An old favorite.</item>
+        <item>It\'s popular for all the right reasons.</item>
+        <item>It smells delicious. This is sure to give you a boost.</item>
+
+        <item>Crispy and golden-brown!</item>
+        <item>It\'s super fluffy.</item>
+        <item>Very chewy.</item>
+        <item>A double stack of fluffy, soft pancakes.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png</item>
+        <item>https://stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png</item>
+        <item>https://stardewvalleywiki.com/mediawiki/images/e/e1/Bread.png</item>
+        <item>https://stardewvalleywiki.com/mediawiki/images/0/08/Spaghetti.png</item>
+        <item>https://stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png</item>
+        <item>https://stardewvalleywiki.com/mediawiki/images/e/e9/Coffee.png</item>
+
+        <item>https://stardewvalleywiki.com/mediawiki/images/8/8f/Hashbrowns.png</item>
+        <item>https://stardewvalleywiki.com/mediawiki/images/1/12/Omelet.png</item>
+        <item>https://stardewvalleywiki.com/mediawiki/images/7/70/Cookie.png</item>
+        <item>https://stardewvalleywiki.com/mediawiki/images/6/6b/Pancakes.png</item>
+
+    </string-array>
+
+    <string-array name="data_gold">
+        <item>400g</item>
+        <item>220g</item>
+        <item>120g</item>
+        <item>240g</item>
+        <item>600g</item>
+        <item>150g</item>
+
+        <item>120g</item>
+        <item>125g</item>
+        <item>140g</item>
+        <item>80g</item>
+    </string-array>
+
+    <string-array name="data_energy">
+        <item>50</item>
+        <item>113</item>
+        <item>50</item>
+        <item>75</item>
+        <item>150</item>
+        <item>3</item>
+
+        <item>90</item>
+        <item>100</item>
+        <item>90</item>
+        <item>90</item>
+
+    </string-array>
+
+    <string-array name="data_health">
+        <item>22</item>
+        <item>50</item>
+        <item>22</item>
+        <item>33</item>
+        <item>67</item>
+        <item>1</item>
+
+        <item>40</item>
+        <item>45</item>
+        <item>40</item>
+        <item>40</item>
+    </string-array>
+
+    <string-array name="data_name">
+        <item>Beer</item>
+        <item>Salad</item>
+        <item>Bread</item>
+        <item>Spaghetti</item>
+        <item>Pizza</item>
+        <item>Coffee</item>
+
+        <item>Hashbrown</item>
+        <item>Omelet</item>
+        <item>Cookie</item>
+        <item>Pancakes</item>
+    </string-array>
+
+    <string-array name="data_descr">
+        <item><b>Beer</b> is often enjoyed with friends and family at social gatherings, sporting events, and bars. Try not to drive after drinking one. \n\nIt provides <b>50 energy</b> and <b>20 health point</b> with the price of <b>400g</b>.</item>
+        <item><b>Salad</b> is a healthy and nutritious dish that can be enjoyed as a meal or a side dish. \n\nIt provides <b>113 energy</b> and <b>50 health point</b> with the price of <b>220g</b>.</item>
+        <item><b>Bread</b> is a versatile food that can be used in many different recipes, including stuffing, bread pudding, and croutons. \n\nIt provides <b>50 energy</b> and <b>22 health point</b> with the price of <b>120g</b>.</item>
+        <item><b>Spaghetti</b> can be a quick and easy meal to make for a family dinner. It is a popular pasta dish enjoyed all around the world. \n\nIt provides <b>75 energy</b> and <b>33 health point</b> with the price of <b></b>.</item>
+        <item>There\'s nothing quite like the smell of a hot, fresh <b>pizza</b> coming out of the oven. \n\nIt provides <b>150 energy</b> and <b>67 health point</b> with the price of <b>600g</b>.</item>
+        <item>The aroma of freshly brewed <b>coffee</b> is one of the most enticing smells in the morning. Many people rely on <b>coffee</b> as their go-to source of caffeine to kickstart their day. \n\nIt provides <b>3 energy</b>, <b>1 health point</b>, and <b>speed buff</b> with the price of <b>150g</b>.</item>
+
+        <item>Hashbrowns are a popular breakfast dish made from grated potatoes. In some regions, hashbrowns are also known as "hashed browns" or "home fries."\n\nIt provides <b>90 energy</b> and <b>40 health point</b> with the price of <b>140g</b>.</item>
+        <item>Omelets are a popular breakfast and brunch food and can be served with toast, hashbrowns, or other side dishes.\n\nIt provides <b>100 energy</b> and <b>45 health point</b> with the price of <b>125g</b>.</item>
+        <item>Cookies are a favorite treat for many people of all ages, and are often associated with holidays and special events. Cookies are often served as a dessert or snack, and are a popular treat to enjoy with a glass of milk or cup of coffee. \n\nIt provides <b>140 energy</b> and <b>40 health point</b> with the price of <b>150g</b>.</item>
+        <item>Pancakes are a comforting and satisfying breakfast food that can be enjoyed by people of all ages. It\'s best served while it\'s hot. \n\nIt provides <b>90 energy</b> and <b>40 health point</b> with the price of <b>80g</b>.</item>
+    </string-array>
+
+    <string-array name="data_descr2">
+        <item><b>Beer</b> is an Artisan Good made from the Keg using Wheat, taking 1-2 days.</item>
+        <item><b>Salad</b> is a cooked dish prepared using either the kitchen inside an upgraded farmhouse or a Cookout Kit with Leek, Dandelion, and Vinegar as the Ingredients.</item>
+        <item><b>Bread</b>making can be a very complex form of art. Before we create the dough we\'ll need to activate the yeast. They prefer warm water and little something to feed on. We use plain sugar, but honey or maple syrup will do. </item>
+        <item><b>Spaghetti</b> is a cooked dish prepared using either the kitchen inside an upgraded farmhouse or a Cookout Kit with Wheat Flour and Tomato as the Ingredients.</item>
+        <item>There\'s a reason <b>pizza</b> is a timeless culinary classic. You\'ve got an artisan golden-brown crust, you\'ve got a tangy, garlic-infused marinara sauce, and you\'re topping it all with a mouth-watering three-cheese blend.</item>
+        <item><b>Coffee</b> is a drink made by placing 5 Coffee Beans inside a Keg for 2 hours, or you can use Coffee Maker to grab one cup every morning.</item>
+
+        <item><b>Hashbrowns</b> are a cooked dish prepared using either the kitchen inside an upgraded farmhouse or a Cookout Kit with Potato and Oil as the Ingredients.</item>
+        <item>This is such a simple dish, but so often done incorrectly. A perfect omelet is a thing of beauty. The majestic mixture of egg and milk poured in the pan, it\'s a pure golden angel of gleaming egg. </item>
+        <item><b>Cookie</b> is a cooked dish prepared using either the kitchen inside an upgraded farmhouse or a Cookout Kit with Wheat Flour, Sugar and Egg as the Ingredients.</item>
+        <item>Sometimes I get carried away with fancy, complicated dishes... but there\'s something comforting about a simple pancake. You\'ll want plenty of butter and maple syrup to slather over these warm stacks.</item>
+    </string-array>
+</resources>
